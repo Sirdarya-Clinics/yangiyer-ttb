@@ -1,4 +1,4 @@
-import { DirektorUz, GalleryUz } from "@/components/gallery/Gallery";
+import {  GalleryUz } from "@/components/gallery/Gallery";
 import Image from "next/image";
 import bg from "../../public/page-bg.jpg";
 import Carusel from "@/components/carusel";
@@ -74,7 +74,7 @@ export default function Home() {
         <Carusel />
         <AboutUz />
         <GalleryUz />
-        <DirektorUz/>
+        {/* <DirektorUz/> */}
         <Suspense>
           <h2 className="text-3xl py-8">Yangiliklar</h2>
           <GetNews />
