@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /backend/
+
+Sitemap: https://yangiyer-ttb.uz/sitemap.xml
