@@ -20,9 +20,9 @@ export default class NextJsCarousel extends Component {
           <div>
             <Image src={Y6} alt="image2" />
           </div>
-          <div>
+          {/* <div>
             <Image src={Y1} alt="image2" />
-          </div>
+          </div> */}
           <div>
             <Image src={Y2} alt="image3" />
           </div>
@@ -36,9 +36,9 @@ export default class NextJsCarousel extends Component {
           <div>
             <Image src={Y5} alt="image3" />
           </div>
-          <div>
+          {/* <div>
             <Image src={Y6} alt="image2" />
-          </div>
+          </div> */}
           <div>
             <Image src={Y2} alt="image3" />
           </div>
