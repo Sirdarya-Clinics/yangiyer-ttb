@@ -17,9 +17,9 @@ export default class NextJsCarousel extends Component {
     return (
       <div className=" max-w-7xl">
         <Carousel infiniteLoop={true} autoPlay={true} showThumbs={false}>
-          <div>
+          {/* <div>
             <Image src={Y6} alt="image2" />
-          </div>
+          </div> */}
           {/* <div>
             <Image src={Y1} alt="image2" />
           </div> */}
